@@ -17,8 +17,8 @@ $ conda create --name clipper --file requirements.txt
 ```
 
 ## Example
-- Runs a clipper server locally ([main.py](main.py))
-- Deploys a prediction model ([main.py](main.py))
+- Runs a clipper server locally ([server.py](server.py))
+- Deploys a prediction model ([server.py](server.py))
 - Updates the prediction model ([update_model.py](update_model.py))
 
 ```bash
